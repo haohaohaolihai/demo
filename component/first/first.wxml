@@ -1,0 +1,3 @@
+<!--component/first/first.wxml-->
+<text>添加任务</text>
+<input bindinput="addTask" bindblur="add" value="{{inputValue}}" type="text"></input>

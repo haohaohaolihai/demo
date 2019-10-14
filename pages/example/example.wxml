@@ -1,0 +1,3 @@
+<!--pages/example/example.wxml-->
+<add-input bind:add-task="addTask"/>
+<todo-list todoTask="{{todoTask}}"/>
